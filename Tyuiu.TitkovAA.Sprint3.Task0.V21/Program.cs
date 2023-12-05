@@ -43,6 +43,7 @@ namespace Tyuiu.TitkovAA.Sprint3.Task0.V21
             Console.WriteLine(dt.GetSumSeries(1.5, 1, 13));
 
 
+
             Console.ReadKey();
 
 

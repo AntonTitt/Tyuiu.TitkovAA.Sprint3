@@ -11,6 +11,7 @@ namespace Tyuiu.TitkovAA.Sprint3.Task0.V21.Test
         {
             DataService dt = new DataService();
 
+
             Assert.AreEqual(-63.727, Math.Round(dt.GetSumSeries(1.5, 1, 13),3));
         }
     }

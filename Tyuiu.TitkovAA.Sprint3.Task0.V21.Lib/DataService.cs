@@ -18,6 +18,7 @@ namespace Tyuiu.TitkovAA.Sprint3.Task0.V21.Lib
             }
 
 
+
             return a;
         }
     }
