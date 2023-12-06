@@ -31,7 +31,7 @@ namespace Tyuiu.TitkovAA.Sprint3.Task1.V28
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* a = 0, startValue=1 stopValue=18                                       *");
+            Console.WriteLine("* a = 0,5 startValue=1 stopValue=18                                       *");
 
 
 
